@@ -23,5 +23,7 @@ Trie les résultats du Dark Email_Access_Checker v1.0
 # Screenshots
 ![email_trieur](https://user-images.githubusercontent.com/89575931/132107204-9e217b92-d2e8-41e1-a752-e09b5ccffee0.png)
 
+# Requirement
+`python -m pip install pyfiglet colorama termcolor clint`
 # Usage
 `python3 emailtrieur_v1.0.py`
