@@ -25,11 +25,13 @@ def banniere() :
         os.system('clear')
     text="DarkCarders007"
     cprint(figlet_format(text, font="standard"), "green")
-    print('https://t.me/DarkCarders007')
     print(colored.blue("DarkTools : Email_Trieur"))
     print(colored.red("-- Version 1.0 --"))
     print(colored.yellow("Realease: 02/09/2021"))
     print(colored.magenta("Email Trieur Décrypteur By DarkCarders007 "))
+    print(colored.cyan('https://t.me/DarkCarders007'))
+    print(colored.green('https://github.com/DarkCarders007'))
+    print(colored.red('https://www.youtube.com/channel/UC7kyGeHDb9YwY-3YjEksEqw'))
 
 
 def menubase():
